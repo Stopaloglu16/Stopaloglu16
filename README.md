@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Blazor, testing, clean architecture
 - 📫 How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sertac-t-149919b9)
 
-### ⌨️ &nbsp;Languages and Tools
+### ⚒️ &nbsp;Languages and Tools
 
 ![Csharp](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=fff&color=darkgreen)
 ![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
