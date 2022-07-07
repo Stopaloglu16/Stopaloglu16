@@ -1,10 +1,11 @@
-- <h4>Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" height="20px" width="20px">, I'm Sertaç</h4> 
-- 💻 Work at Citipost\Citipostmail
+<h3>Hi there <img src="/Img/Hi.gif" height="20px" width="20px">, I'm Sertaç</h3> 
+
+- 💻 Work at Citipost\Citipostmail (UK)
 - 👀 I’m interested in web, desktop applications
 - 🌱 I’m currently learning Blazor, testing, clean architecture
 - 📫 How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sertac-t-149919b9)
 
-### ⚒️ &nbsp;Languages and Tools
+### ⚒️ Languages and Tools
 
 ![Csharp](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=fff&color=darkgreen)
 ![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
