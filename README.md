@@ -1,4 +1,4 @@
-- 👋 Hello world, I’m Sertaç 
+- <h4>Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" height="20px" width="20px">, I'm Sertaç</h4> 
 - 💻 Work at Citipost\Citipostmail
 - 👀 I’m interested in web, desktop applications
 - 🌱 I’m currently learning Blazor, testing, clean architecture
