@@ -25,7 +25,7 @@ https://docs.microsoft.com/en-us/users/sertac-8840/
 ### 🏅 My Stats
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=stopaloglu16&show_icons=true&theme=great-gatsby&count_private=true" alt="stopaloglu16's GitHub Stats" />
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stopaloglu16&theme=great-gatsby&layout=compact" 
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stopaloglu16&theme=great-gatsby&layout=compact" 
     alt="stopaloglu16 GitHub Top Languages" />
     
     
