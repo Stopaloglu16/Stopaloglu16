@@ -1,6 +1,6 @@
 <h3>Hi there <img src="/Img/Hi.gif" height="20px" width="20px">, I'm Sertaç</h3> 
 
-- 💻 Work at <a href="https://citipost.com/" target="_blank">Citipost</a> \ <a href="https://www.citipostmail.co.uk/" target="_blank">Citipost Mail</a> (UK) 
+- 💻 Work at <a href="https://citipost.com/" >Citipost</a> \ <a href="https://www.citipostmail.co.uk/" >Citipost Mail</a> (UK) 
 - 👀 I’m interested in web, desktop applications
 - 🌱 I’m currently learning Blazor, Testing, Clean architecture
 - 📫 How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sertac-t-149919b9)
