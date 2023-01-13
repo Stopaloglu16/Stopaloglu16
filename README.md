@@ -20,7 +20,7 @@
 
 ### 📎 Self Taught
 
-https://docs.microsoft.com/en-us/users/sertac-8840/
+<a href="https://docs.microsoft.com/en-us/users/sertac-8840/">Microsoft Learn</a>
 
 ### 🏅 My Stats
 
