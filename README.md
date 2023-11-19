@@ -22,6 +22,8 @@
 
 <a href="https://docs.microsoft.com/en-us/users/sertac-8840/">Microsoft Learn</a>
 
+<a href="https://sites.google.com/view/sertacstudynotes">Study Notes</a>
+
 ### 🏅 My Stats
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=stopaloglu16&show_icons=true&theme=great-gatsby&count_private=true" alt="stopaloglu16's GitHub Stats" />
