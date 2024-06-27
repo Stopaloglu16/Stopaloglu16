@@ -20,9 +20,9 @@
 
 ### 📎 Self Taught
 
-<a href="https://docs.microsoft.com/en-us/users/sertac-8840/">Microsoft Learn</a>
+<a href="https://docs.microsoft.com/en-us/users/sertac-8840/" target="_blank">Microsoft Learn</a>
 
-<a href="https://sites.google.com/view/sertacstudynotes">Study Notes</a>
+<a href="https://sites.google.com/view/sertacstudynotes" target="_blank">Study Notes</a>
    
 
 
